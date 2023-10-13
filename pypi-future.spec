@@ -4,7 +4,7 @@
 #
 Name     : pypi-future
 Version  : 0.18.3
-Release  : 55
+Release  : 56
 URL      : https://files.pythonhosted.org/packages/8f/2e/cf6accf7415237d6faeeebdc7832023c90e0282aa16fd3263db0eb4715ec/future-0.18.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8f/2e/cf6accf7415237d6faeeebdc7832023c90e0282aa16fd3263db0eb4715ec/future-0.18.3.tar.gz
 Summary  : Clean single-source support for Python 3 and 2
