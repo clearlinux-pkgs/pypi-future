@@ -1,5 +1,5 @@
 PKG_NAME := pypi-future
-URL = https://files.pythonhosted.org/packages/8f/2e/cf6accf7415237d6faeeebdc7832023c90e0282aa16fd3263db0eb4715ec/future-0.18.3.tar.gz
+URL = https://files.pythonhosted.org/packages/a7/b2/4140c69c6a66432916b26158687e821ba631a4c9273c474343badf84d3ba/future-1.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
