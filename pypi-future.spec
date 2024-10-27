@@ -7,7 +7,7 @@
 #
 Name     : pypi-future
 Version  : 1.0.0
-Release  : 59
+Release  : 60
 URL      : https://files.pythonhosted.org/packages/a7/b2/4140c69c6a66432916b26158687e821ba631a4c9273c474343badf84d3ba/future-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a7/b2/4140c69c6a66432916b26158687e821ba631a4c9273c474343badf84d3ba/future-1.0.0.tar.gz
 Summary  : Clean single-source support for Python 3 and 2
